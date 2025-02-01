@@ -52,7 +52,7 @@ const About = ({isDarkMode}) => {
                         Hi, I'm a Software Developer and Competitive Programmer with a passion for solving complex problems and building innovative solutions. Pursuing my B.Tech in Computer Science Engineering at G.L.A. University, I specialize in Data Structures & Algorithms (DSA) and Full-stack development (MERN).
                         <br />Achieved a Codeforces rating of 1400, demonstrating my strong problem-solving skills and algorithmic expertise.
                         <br />LeetCode Rating: 1700 | 600+ problems solved.
-                        <br />I create efficient, scalable, and user-centric applications. <br />Let’s connect and bring impactful ideas to life! 🚀
+                        <br />I create efficient, scalable, and user-centric applications 🚀
                     </p>
 
                     <motion.ul

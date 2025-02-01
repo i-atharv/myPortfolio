@@ -47,7 +47,7 @@ const Header = () => {
             whileInView={{opacity:1}}
             transition={{duration:0.6,delay:0.7}}
             className='max-w-2xl mx-auto font-Ovo'>
-                I love turning ideas into reality through code. From building dynamic web apps to solving challenges in competitive programming, I strive for innovation and excellence. <br />Explore my journey to see technology through my lens.
+                I love turning ideas into reality through code. From building dynamic web apps to solving challenges in competitive programming. <br />Explore my journey to see technology through my lens.
             </motion.p>
 
             <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
